@@ -40,9 +40,9 @@ body {
 
 .resource-section h2 {
     font-size: 1.8rem;
-    color: #667eea;
+    color: #0ea506;
     padding: 25px 30px 15px;
-    border-bottom: 3px solid #667eea;
+    border-bottom: 3px solid #0ea506;
     background: linear-gradient(to right, #f8f9ff, #ffffff);
     margin: 0;
 }
@@ -93,7 +93,7 @@ body {
     margin-right: 15px;
     cursor: pointer;
     flex-shrink: 0;
-    accent-color: #667eea;
+    accent-color: #0ea506;
     transition: transform 0.2s ease;
 }
 
@@ -107,7 +107,7 @@ body {
 
 /* ===== RESOURCE LINKS ===== */
 .resource-section a {
-    color: #667eea;
+    color: #0ea506;
     text-decoration: none;
     font-weight: 500;
     transition: all 0.2s ease;
@@ -115,13 +115,13 @@ body {
 }
 
 .resource-section a:hover {
-    color: #764ba2;
+    color: #65f05e;
     text-decoration: underline;
     transform: translateX(3px);
 }
 
 .resource-section a:visited {
-    color: #9b59b6;
+    color: #65f05e;
 }
 
 /* Mark completed items with strikethrough and faded color */
